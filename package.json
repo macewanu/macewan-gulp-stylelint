@@ -1,6 +1,6 @@
 {
   "name": "@macewan/gulp-stylelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Temporary copy of gulp-stylelint package, created for compatibility with new Stylelint builds.",
   "main": "src/index.js",
   "files": [
